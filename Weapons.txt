@@ -1,0 +1,6 @@
+Killing_Edge sword 95 15 40
+Silver_Sword sword 95 18 30
+Silver_Axe axe 85 25 30
+Killer_Axe axe 85 20 45
+Silver_Lance lance 90 22 30
+Killer_Lance lance 90 18 40
