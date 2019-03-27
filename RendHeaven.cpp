@@ -3,7 +3,7 @@
 #include <typeinfo>
 #include <iostream>
 
-RendHeaven::RendHeaven() : Skill(std::string(typeid(Luna).name()).substr(6), skillType::ONE_WAY_COMBAT) {
+RendHeaven::RendHeaven() : Skill(std::string(typeid(RendHeaven).name()).substr(6), skillType::ONE_WAY_COMBAT) {
 }
 
 void RendHeaven::setSkillLikelyHood(const Unit &player){
